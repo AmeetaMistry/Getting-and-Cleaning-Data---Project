@@ -10,7 +10,7 @@ In this step the train and test files are merged to create a single set for each
 Column operations: In this step the 561 column names are derived from the features.txt file and only columns pertaining to mean and standard deviation measurements are retained.  The column names are also changed for easier understanding.
 
 ##STEP 4
-The 3 consolidated files are merged.  Code for activity is replaced with description
+The 3 consolidated files are merged.  Code for activity is replaced with description.
 
 ##STEP 5
-tidyData is generated and written
+tidyData is generated and written.
